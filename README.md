@@ -1,6 +1,6 @@
 # Spark_Conversion
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Hitman007IN/Spark_Conversion/blob/master/spark_logo.png)
 
 Spark code to convert different file formats
 
