@@ -1,0 +1,10 @@
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/impl/ParquetToCsvConverterImpl.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/impl/AvroToParquetConverterImpl.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/property/PropertyReader.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/driver/TextConversion.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/impl/ParquetToAvroConverterImpl.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/impl/TextToParquetConverterImpl.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/driver/AvroConversionDriver.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/driver/ParquetConversionDriver.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/impl/ParquetToTextConverterImpl.java
+/Users/vishakhrameshan/Documents/Workspace/Spark_Examples/sparkConversion/src/main/java/com/myApplication/driver/CsvConversionDriver.java

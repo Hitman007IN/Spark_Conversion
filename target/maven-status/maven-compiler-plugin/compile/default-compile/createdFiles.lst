@@ -1,0 +1,11 @@
+com/myApplication/impl/ParquetToTextConverterImpl.class
+com/myApplication/property/PropertyReader.class
+com/myApplication/driver/CsvConversionDriver.class
+com/myApplication/impl/TextToParquetConverterImpl.class
+com/myApplication/impl/ParquetToCsvConverterImpl.class
+com/myApplication/impl/TextToParquetConverterImpl$1.class
+com/myApplication/driver/AvroConversionDriver.class
+com/myApplication/impl/ParquetToAvroConverterImpl.class
+com/myApplication/driver/TextConversion.class
+com/myApplication/driver/ParquetConversionDriver.class
+com/myApplication/impl/AvroToParquetConverterImpl.class
