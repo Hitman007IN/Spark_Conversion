@@ -19,7 +19,7 @@ public class AvroConversionDriver {
 		final SparkConf conf = new SparkConf().setAppName("CsvConversion").setMaster("local");
 		JavaSparkContext jsc = new JavaSparkContext(conf);
 		
-		if(args == null || args.length != 2 ) {
+		if(args == null || args.length < 2 ) {
 			jsc.close();
 			throw new ArrayIndexOutOfBoundsException();
 		}
