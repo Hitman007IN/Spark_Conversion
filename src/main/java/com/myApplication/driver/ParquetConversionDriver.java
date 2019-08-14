@@ -17,7 +17,7 @@ public class ParquetConversionDriver {
 		final String outputPath = args[1];
 		String delimiter = args[2];
 		
-		if(args == null || args.length != 3 ) {
+		if(args == null || args.length < 3 ) {
 			jsc.close();
 			throw new ArrayIndexOutOfBoundsException();
 		}
