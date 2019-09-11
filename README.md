@@ -27,5 +27,6 @@ Currently supports the following conversions:-
   - PARQUET to TEXT
 
 Run the spring boot application and access the Swagger UI to interact
+
 ![alt text](https://github.com/Hitman007IN/Spark_Conversion/blob/master/swagger.png)
 
