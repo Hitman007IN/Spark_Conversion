@@ -7,24 +7,24 @@ Spring Boot + Apache Spark code to convert different file formats
 Currently supports the following conversions:-
 
 1. PARQUET Conversion
-  1. TEXT to PARQUET
-  2. CSV to PARQUET
-  3. AVRO to PARQUET
+  - TEXT to PARQUET
+  - CSV to PARQUET
+  - AVRO to PARQUET
   
 2. CSV Conversion
-  1. TEXT to CSV
-  2. AVRO to CSV
-  3. PARQUET to CSV
+  - TEXT to CSV
+  - AVRO to CSV
+  - PARQUET to CSV
   
 3. AVRO Conversion
-  1. TEXT to AVRO
-  2. CSV to ARVO
-  3. PARQUET to AVRO
+  - TEXT to AVRO
+  - CSV to ARVO
+  - PARQUET to AVRO
   
 4. TEXT Conversion
-  1. CSV to TEXT
-  2. AVRO to TEXT
-  3. PARQUET to TEXT
+  - CSV to TEXT
+  - AVRO to TEXT
+  - PARQUET to TEXT
 
 Run the spring boot application and access the Swagger UI to interact
 ![alt text](https://github.com/Hitman007IN/Spark_Conversion/blob/master/swagger.png)
